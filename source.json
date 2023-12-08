@@ -1,18 +1,24 @@
 {
-    "name":"Balphagore's VCC Listings",
-    "id":"com.balphagore-vcc-listing",
-    "url":"https://balphagorevr.github.io/balphagore-vcc-listings/index.json",
-    "author":{
-        "name":"Balphagore",
-        "url":"https://balphagorevr.github.io/balphagore-vcc-listings"
-    },
-    "description":"My VCC Listings for VRChat packages published from my work.",
-    "infoLink":{
-        "url":"https://balphagorevr.github.io/balphagore-vcc-listings",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "balphagorevr/UdonDataReader"
-    ]
+  "name": "Balphagores VCC Listings",
+  "id": "com.balphagore.vcc-listing",
+  "url": "https://balphagorevr.github.io/balphagore-vcc-listings/index.json",
+  "author": {
+    "name": "Balphagore",
+    "url": "https://balphagorevr.github.io/balphagore-vcc-listings"
+  },
+  "description": "My VCC Listings for VRChat packages published from my work.",
+  "infoLink": {
+    "url": "https://balphagorevr.github.io/balphagore-vcc-listings",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [
+    "balphagorevr/UdonDataReader"
+  ],
+  "packages": [
+    {
+      "name": "com.balphagore.commonlib",
+      "releases": []
+    }
+  ]
 }
