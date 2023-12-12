@@ -1,5 +1,5 @@
 {
-  "name": "Balphagores Listings",
+  "name": "Balphagore's Listings",
   "id": "com.balphagore.vcc-listings",
   "url": "https://balphagorevr.github.io/balphagore-vcc-listings/index.json",
   "author": {
@@ -9,7 +9,7 @@
   },
   "description": "Listings of all my repositories and published packages.",
   "infoLink": {
-    "url": "http://github.com/vrchat-community/template-package-listing",
+    "url": "https://balphagorevr.github.io/balphagore-vcc-listings",
     "text": "View on GitHub"
   },
   "bannerUrl": "banner.png",
